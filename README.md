@@ -1,5 +1,5 @@
 # WordGame
-
+# WORK IN PROGRESS
 Project MOOC MITx
 
 This game is a lot like Scrabble or Words With Friends.
